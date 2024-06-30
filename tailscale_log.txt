@@ -300,3 +300,6 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/06/30 15:51:40 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
 2024/06/30 15:52:43 magicsock: closing connection to derp-19 (idle), age 1m45s
 2024/06/30 15:52:43 magicsock: 1 active derp conns: derp-8=cr27m0s,wr19m0s
+2024/06/30 15:56:33 Received error: PollNetMap: unexpected EOF
+2024/06/30 15:56:34 control: netmap: got new dial plan from control
+2024/06/30 15:56:34 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
