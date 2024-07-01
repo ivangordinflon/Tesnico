@@ -295,3 +295,94 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/01 10:27:25 magicsock: derp-19 connected; connGen=1
 2024/07/01 10:28:25 magicsock: closing connection to derp-19 (idle), age 1m0s
 2024/07/01 10:28:25 magicsock: 1 active derp conns: derp-8=cr36m0s,wr21m0s
+2024/07/01 10:37:25 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
+2024/07/01 10:39:52 wgengine: idle peer [ay1OS] now active, reconfiguring WireGuard
+2024/07/01 10:39:52 wgengine: Reconfig: configuring userspace WireGuard config (with 1/2 peers)
+2024/07/01 10:39:52 magicsock: disco: node [ay1OS] d:5f1a8191d0596206 now using 207.188.154.10:46985 mtu=1360 tx=211d4ff0cf52
+2024/07/01 10:39:52 Accept: TCP{100.103.173.16:15314 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:39:52 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:15314} 52 ok out
+2024/07/01 10:39:52 Accept: TCP{100.103.173.16:15314 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:39:57 magicsock: disco: node [ay1OS] d:5f1a8191d0596206 now using 207.188.154.10:41641 mtu=1360 tx=86e84e9c1461
+2024/07/01 10:40:02 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/01 10:40:12 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/01 10:40:22 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/01 10:40:32 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:40:42 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/01 10:40:52 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/01 10:41:02 Accept: TCP{100.103.173.16:15322 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/01 10:41:12 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:15322} 197 ok out
+2024/07/01 10:43:05 Received error: PollNetMap: unexpected EOF
+2024/07/01 10:43:06 control: netmap: got new dial plan from control
+2024/07/01 10:43:29 wgengine: idle peer [bFedF] now active, reconfiguring WireGuard
+2024/07/01 10:43:29 wgengine: Reconfig: configuring userspace WireGuard config (with 2/2 peers)
+2024/07/01 10:43:29 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/01 10:43:29 magicsock: 2 active derp conns: derp-8=cr51m0s,wr2m0s derp-19=cr0s,wr0s
+2024/07/01 10:43:29 derphttp.Client.Send: connecting to derp-19 (mad)
+2024/07/01 10:43:29 magicsock: derp-19 connected; connGen=1
+2024/07/01 10:43:30 Accept: TCP{100.85.195.31:51194 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:43:30 Accept: TCP{100.85.195.31:51195 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:43:30 Accept: TCP{100.85.195.31:51195 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:43:40 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51194} 158 ok out
+2024/07/01 10:43:50 Accept: TCP{100.85.195.31:51194 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/01 10:44:00 Accept: TCP{100.85.195.31:51194 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:44:10 Accept: TCP{100.85.195.31:51194 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:44:20 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51194} 332 ok out
+2024/07/01 10:44:29 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/01 10:44:29 magicsock: 1 active derp conns: derp-8=cr52m0s,wr3m0s
+2024/07/01 10:44:30 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/01 10:44:30 magicsock: 2 active derp conns: derp-8=cr52m0s,wr3m0s derp-19=cr0s,wr0s
+2024/07/01 10:44:30 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/01 10:44:30 magicsock: derp-19 connected; connGen=1
+2024/07/01 10:44:30 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51194} 263 ok out
+2024/07/01 10:44:41 Accept: TCP{100.85.195.31:51217 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:46:30 magicsock: closing connection to derp-19 (idle), age 2m0s
+2024/07/01 10:46:30 magicsock: 1 active derp conns: derp-8=cr54m0s,wr5m0s
+2024/07/01 10:48:57 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/01 10:48:57 magicsock: 2 active derp conns: derp-8=cr56m0s,wr7m0s derp-18=cr0s,wr0s
+2024/07/01 10:48:57 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/01 10:48:57 magicsock: derp-18 connected; connGen=1
+2024/07/01 10:48:58 Accept: TCP{100.85.195.31:51398 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:48:58 Accept: TCP{100.85.195.31:51402 > 100.80.101.71:25565} 52 tcp ok
+2024/07/01 10:48:58 wgengine: Reconfig: configuring userspace WireGuard config (with 1/2 peers)
+2024/07/01 10:48:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51398} 52 ok out
+2024/07/01 10:49:08 Accept: TCP{100.85.195.31:51402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:49:18 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 240 ok out
+2024/07/01 10:49:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 86 ok out
+2024/07/01 10:49:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 534 ok out
+2024/07/01 10:49:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 319 ok out
+2024/07/01 10:49:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 103 ok out
+2024/07/01 10:50:08 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 596 ok out
+2024/07/01 10:50:12 magicsock: closing connection to derp-18 (idle), age 1m15s
+2024/07/01 10:50:12 magicsock: 1 active derp conns: derp-8=cr58m0s,wr8m0s
+2024/07/01 10:50:18 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 224 ok out
+2024/07/01 10:50:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 164 ok out
+2024/07/01 10:50:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 408 ok out
+2024/07/01 10:50:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 339 ok out
+2024/07/01 10:50:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 270 ok out
+2024/07/01 10:51:01 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/01 10:51:01 magicsock: 2 active derp conns: derp-8=cr58m0s,wr9m0s derp-18=cr0s,wr0s
+2024/07/01 10:51:01 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/01 10:51:01 magicsock: derp-18 connected; connGen=1
+2024/07/01 10:51:08 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 396 ok out
+2024/07/01 10:51:18 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 304 ok out
+2024/07/01 10:51:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 392 ok out
+2024/07/01 10:51:38 Accept: TCP{100.85.195.31:51402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 10:51:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 303 ok out
+2024/07/01 10:51:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 212 ok out
+2024/07/01 10:52:01 magicsock: closing connection to derp-18 (idle), age 1m0s
+2024/07/01 10:52:01 magicsock: 1 active derp conns: derp-8=cr59m0s,wr10m0s
+2024/07/01 10:52:08 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 421 ok out
+2024/07/01 10:52:18 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 355 ok out
+2024/07/01 10:52:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 236 ok out
+2024/07/01 10:52:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 492 ok out
+2024/07/01 10:52:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 240 ok out
+2024/07/01 10:52:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 406 ok out
+2024/07/01 10:53:03 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/01 10:53:03 magicsock: 2 active derp conns: derp-8=cr1h0m0s,wr11m0s derp-18=cr0s,wr0s
+2024/07/01 10:53:03 derphttp.Client.Send: connecting to derp-18 (par)
+2024/07/01 10:53:03 magicsock: derp-18 connected; connGen=1
+2024/07/01 10:53:08 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 571 ok out
+2024/07/01 10:53:18 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 651 ok out
+2024/07/01 10:53:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 661 ok out
+2024/07/01 10:53:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 664 ok out
+2024/07/01 10:53:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51402} 478 ok out
