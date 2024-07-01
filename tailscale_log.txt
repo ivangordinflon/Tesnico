@@ -188,3 +188,6 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/01 13:05:20 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:2510} 423 ok out
 2024/07/01 13:06:51 magicsock: closing connection to derp-19 (idle), age 17m15s
 2024/07/01 13:06:51 magicsock: 1 active derp conns: derp-8=cr18m0s,wr18m0s
+2024/07/01 13:12:21 Received error: PollNetMap: unexpected EOF
+2024/07/01 13:12:22 control: netmap: got new dial plan from control
+2024/07/01 13:12:22 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
