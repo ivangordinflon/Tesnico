@@ -1397,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-07-01 19:45:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-07-01 19:07:57 +0000"
