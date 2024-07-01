@@ -7,12 +7,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-07-01 11:12:27 +0000",
       "minecraft:beach": "2024-06-30 15:32:07 +0000",
       "minecraft:forest": "2024-06-30 15:43:15 +0000",
       "minecraft:sparse_jungle": "2024-06-30 15:32:16 +0000",
+      "minecraft:jungle": "2024-07-01 11:10:12 +0000",
       "minecraft:river": "2024-06-30 15:42:57 +0000",
       "minecraft:lukewarm_ocean": "2024-06-30 15:42:06 +0000",
-      "minecraft:birch_forest": "2024-06-30 15:43:00 +0000"
+      "minecraft:meadow": "2024-07-01 11:09:30 +0000",
+      "minecraft:birch_forest": "2024-06-30 15:43:00 +0000",
+      "minecraft:savanna": "2024-07-01 11:11:22 +0000",
+      "minecraft:plains": "2024-07-01 11:10:50 +0000"
     },
     "done": false
   },
@@ -140,6 +145,7 @@
     "criteria": {
       "mutton": "2024-06-30 15:36:32 +0000",
       "chicken": "2024-06-30 15:36:51 +0000",
+      "bread": "2024-07-01 11:14:03 +0000",
       "porkchop": "2024-06-30 15:47:21 +0000"
     },
     "done": false
@@ -729,6 +735,42 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-30 15:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-07-01 11:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-01 11:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-07-01 11:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-07-01 11:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-07-01 11:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-07-01 11:13:26 +0000"
     },
     "done": true
   },
