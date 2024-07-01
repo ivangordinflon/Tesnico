@@ -543,3 +543,40 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/01 12:11:48 Accept: TCP{100.103.173.16:17676 > 100.80.101.71:25565} 76 tcp non-syn
 2024/07/01 12:11:58 Accept: TCP{100.85.195.31:51939 > 100.80.101.71:25565} 45 tcp non-syn
 2024/07/01 12:12:08 Accept: TCP{100.85.195.31:51939 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:12:18 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 224 ok out
+2024/07/01 12:12:28 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 741 ok out
+2024/07/01 12:12:38 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 255 ok out
+2024/07/01 12:12:48 Accept: TCP{100.103.173.16:17676 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:12:53 magicsock: closing connection to derp-19 (idle), age 1h5m15s
+2024/07/01 12:12:53 magicsock: 1 active derp conns: derp-8=cr1h12m0s,wr1h10m0s
+2024/07/01 12:12:58 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 202 ok out
+2024/07/01 12:13:08 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 215 ok out
+2024/07/01 12:13:18 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 316 ok out
+2024/07/01 12:13:28 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 229 ok out
+2024/07/01 12:13:38 Accept: TCP{100.103.173.16:17676 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:13:48 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:17676} 246 ok out
+2024/07/01 12:13:58 Accept: TCP{100.103.173.16:17676 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:14:08 Accept: TCP{100.103.173.16:17676 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:14:18 Accept: TCP{100.85.195.31:51939 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:14:27 magicsock: adding connection to derp-19 for [ay1OS]
+2024/07/01 12:14:27 magicsock: 2 active derp conns: derp-8=cr1h13m0s,wr1h12m0s derp-19=cr0s,wr0s
+2024/07/01 12:14:27 derphttp.Client.Send: connecting to derp-19 (mad)
+2024/07/01 12:14:27 magicsock: derp-19 connected; connGen=1
+2024/07/01 12:14:27 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 182 ok out
+2024/07/01 12:14:33 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 296 ok out
+2024/07/01 12:14:39 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:45 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:48 Accept: TCP{100.85.195.31:51939 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/01 12:14:51 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:57 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:14:58 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 160 ok out
+2024/07/01 12:15:03 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/01 12:15:08 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 172 ok out
+2024/07/01 12:15:18 Accept: TCP{100.85.195.31:51939 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/01 12:15:28 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 272 ok out
+2024/07/01 12:15:38 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 202 ok out
+2024/07/01 12:15:48 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:51939} 199 ok out
+2024/07/01 12:16:12 magicsock: closing connection to derp-19 (idle), age 1m45s
+2024/07/01 12:16:12 magicsock: 1 active derp conns: derp-8=cr1h15m0s,wr1h14m0s
