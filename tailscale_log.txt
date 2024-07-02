@@ -3092,3 +3092,619 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/02 14:36:07 magicsock: 2 active derp conns: derp-8=cr7h12m0s,wr7h3m0s derp-19=cr0s,wr0s
 2024/07/02 14:36:07 derphttp.Client.Recv: connecting to derp-19 (mad)
 2024/07/02 14:36:08 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:36:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 315 ok out
+2024/07/02 14:36:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:36:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 367 ok out
+2024/07/02 14:36:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:36:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:37:04 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:37:07 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:37:07 magicsock: 1 active derp conns: derp-8=cr7h13m0s,wr7h4m0s
+2024/07/02 14:37:10 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:37:10 magicsock: 2 active derp conns: derp-8=cr7h13m0s,wr7h4m0s derp-19=cr0s,wr0s
+2024/07/02 14:37:10 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:37:11 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:37:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:37:24 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 248 ok out
+2024/07/02 14:37:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:37:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 1280 ok out
+2024/07/02 14:37:54 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:38:04 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:38:10 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:38:10 magicsock: 1 active derp conns: derp-8=cr7h14m0s,wr7h5m0s
+2024/07/02 14:38:13 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:38:13 magicsock: 2 active derp conns: derp-8=cr7h14m0s,wr7h5m0s derp-19=cr0s,wr0s
+2024/07/02 14:38:13 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:38:14 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:38:14 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:38:24 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 54 tcp non-syn
+2024/07/02 14:38:34 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:38:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 320 ok out
+2024/07/02 14:38:54 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:39:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:39:13 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:39:13 magicsock: 1 active derp conns: derp-8=cr7h15m0s,wr7h6m0s
+2024/07/02 14:39:14 Accept: TCP{100.103.173.16:16009 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:39:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:39:25 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:39:25 magicsock: 2 active derp conns: derp-8=cr7h15m0s,wr7h6m0s derp-19=cr0s,wr0s
+2024/07/02 14:39:25 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:39:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:39:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:39:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 389 ok out
+2024/07/02 14:39:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:40:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:40:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 460 ok out
+2024/07/02 14:40:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:40:25 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:40:25 magicsock: 1 active derp conns: derp-8=cr7h16m0s,wr7h7m0s
+2024/07/02 14:40:25 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:40:25 magicsock: 2 active derp conns: derp-8=cr7h16m0s,wr7h7m0s derp-19=cr0s,wr0s
+2024/07/02 14:40:25 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:40:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:40:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:40:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:40:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:41:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:41:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:41:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:41:25 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:41:25 magicsock: 1 active derp conns: derp-8=cr7h17m0s,wr7h8m0s
+2024/07/02 14:41:25 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:41:25 magicsock: 2 active derp conns: derp-8=cr7h17m0s,wr7h8m0s derp-19=cr0s,wr0s
+2024/07/02 14:41:25 derphttp.Client.Send: connecting to derp-19 (mad)
+2024/07/02 14:41:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:41:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:41:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:41:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:42:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:42:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:42:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:42:25 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:42:25 magicsock: 1 active derp conns: derp-8=cr7h18m0s,wr7h9m0s
+2024/07/02 14:42:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:42:26 magicsock: 2 active derp conns: derp-8=cr7h18m0s,wr7h9m0s derp-19=cr0s,wr0s
+2024/07/02 14:42:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:42:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:42:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:42:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:42:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:43:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:43:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:43:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:43:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:43:26 magicsock: 1 active derp conns: derp-8=cr7h19m0s,wr7h10m0s
+2024/07/02 14:43:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:43:26 magicsock: 2 active derp conns: derp-8=cr7h19m0s,wr7h10m0s derp-19=cr0s,wr0s
+2024/07/02 14:43:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:43:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:43:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:43:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:43:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:44:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:44:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:44:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:44:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:44:26 magicsock: 1 active derp conns: derp-8=cr7h20m0s,wr7h11m0s
+2024/07/02 14:44:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:44:26 magicsock: 2 active derp conns: derp-8=cr7h20m0s,wr7h11m0s derp-19=cr0s,wr0s
+2024/07/02 14:44:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:44:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:44:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:44:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:44:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:45:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:45:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:45:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:45:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:45:26 magicsock: 1 active derp conns: derp-8=cr7h21m0s,wr7h12m0s
+2024/07/02 14:45:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:45:26 magicsock: 2 active derp conns: derp-8=cr7h21m0s,wr7h12m0s derp-19=cr0s,wr0s
+2024/07/02 14:45:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:45:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:45:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:45:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:45:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:46:04 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 424 ok out
+2024/07/02 14:46:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:46:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:46:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:46:26 magicsock: 1 active derp conns: derp-8=cr7h22m0s,wr7h13m0s
+2024/07/02 14:46:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:46:26 magicsock: 2 active derp conns: derp-8=cr7h22m0s,wr7h13m0s derp-19=cr0s,wr0s
+2024/07/02 14:46:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:46:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:46:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 338 ok out
+2024/07/02 14:46:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:46:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:47:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:47:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:47:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:47:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:47:26 magicsock: 1 active derp conns: derp-8=cr7h23m0s,wr7h14m0s
+2024/07/02 14:47:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:47:26 magicsock: 2 active derp conns: derp-8=cr7h23m0s,wr7h14m0s derp-19=cr0s,wr0s
+2024/07/02 14:47:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:47:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:47:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 790 ok out
+2024/07/02 14:47:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:47:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:48:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:48:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 291 ok out
+2024/07/02 14:48:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:48:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:48:26 magicsock: 1 active derp conns: derp-8=cr7h24m0s,wr7h15m0s
+2024/07/02 14:48:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:48:26 magicsock: 2 active derp conns: derp-8=cr7h24m0s,wr7h15m0s derp-19=cr0s,wr0s
+2024/07/02 14:48:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:48:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:48:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:48:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:48:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:49:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:49:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:49:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:49:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:49:26 magicsock: 1 active derp conns: derp-8=cr7h25m0s,wr7h16m0s
+2024/07/02 14:49:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:49:26 magicsock: 2 active derp conns: derp-8=cr7h25m0s,wr7h16m0s derp-19=cr0s,wr0s
+2024/07/02 14:49:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:49:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:49:34 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:49:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:49:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:50:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:50:14 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:50:24 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:50:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:50:44 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 59 tcp non-syn
+2024/07/02 14:50:54 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:51:04 Accept: TCP{100.103.173.16:16402 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:51:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:51:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:51:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:51:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:51:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:52:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:52:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:52:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:52:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:52:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:52:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:53:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:53:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:53:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:53:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:53:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:53:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:54:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:54:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:54:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:54:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:54:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 60 tcp non-syn
+2024/07/02 14:54:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:55:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:55:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:55:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:55:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:55:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 14:55:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:56:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:56:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:56:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:56:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:56:41 magicsock: closing connection to derp-19 (idle), age 7m15s
+2024/07/02 14:56:41 magicsock: 1 active derp conns: derp-8=cr7h33m0s,wr7h23m0s
+2024/07/02 14:56:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:56:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:57:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:57:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 14:57:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:57:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:57:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:57:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:58:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:58:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:58:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:58:26 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:58:26 magicsock: 2 active derp conns: derp-8=cr7h34m0s,wr7h25m0s derp-19=cr0s,wr0s
+2024/07/02 14:58:26 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:58:26 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:58:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 48 tcp non-syn
+2024/07/02 14:58:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:58:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:59:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 14:59:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:59:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:59:26 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 14:59:26 magicsock: 1 active derp conns: derp-8=cr7h35m0s,wr7h26m0s
+2024/07/02 14:59:29 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 14:59:29 magicsock: 2 active derp conns: derp-8=cr7h35m0s,wr7h26m0s derp-19=cr0s,wr0s
+2024/07/02 14:59:29 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 14:59:29 magicsock: derp-19 connected; connGen=1
+2024/07/02 14:59:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 14:59:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 14:59:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 48 tcp non-syn
+2024/07/02 15:00:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:00:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:00:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:00:29 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:00:29 magicsock: 1 active derp conns: derp-8=cr7h36m0s,wr7h27m0s
+2024/07/02 15:00:32 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/02 15:00:32 magicsock: 2 active derp conns: derp-8=cr7h36m0s,wr7h27m0s derp-18=cr0s,wr0s
+2024/07/02 15:00:32 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/02 15:00:32 magicsock: derp-18 connected; connGen=1
+2024/07/02 15:00:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:00:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:00:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:01:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:01:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:01:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:01:32 magicsock: closing connection to derp-18 (idle), age 1m0s
+2024/07/02 15:01:32 magicsock: 1 active derp conns: derp-8=cr7h37m0s,wr7h28m0s
+2024/07/02 15:01:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:01:35 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:01:35 magicsock: 2 active derp conns: derp-8=cr7h37m0s,wr7h28m0s derp-19=cr0s,wr0s
+2024/07/02 15:01:35 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:01:35 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:01:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:01:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:35 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:02:35 magicsock: 1 active derp conns: derp-8=cr7h38m0s,wr7h29m0s
+2024/07/02 15:02:38 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:02:38 magicsock: 2 active derp conns: derp-8=cr7h39m0s,wr7h29m0s derp-19=cr0s,wr0s
+2024/07/02 15:02:38 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:02:38 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:02:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:02:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:03:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:03:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:03:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:03:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 396 ok out
+2024/07/02 15:03:38 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:03:38 magicsock: 1 active derp conns: derp-8=cr7h40m0s,wr7h30m0s
+2024/07/02 15:03:41 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:03:41 magicsock: 2 active derp conns: derp-8=cr7h40m0s,wr7h30m0s derp-19=cr0s,wr0s
+2024/07/02 15:03:41 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:03:41 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:03:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 564 ok out
+2024/07/02 15:03:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:04:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:04:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:04:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:04:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:04:41 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:04:41 magicsock: 1 active derp conns: derp-8=cr7h41m0s,wr7h31m0s
+2024/07/02 15:04:44 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:16516} 40 ok out
+2024/07/02 15:04:44 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:04:44 magicsock: 2 active derp conns: derp-8=cr7h41m0s,wr7h32m0s derp-19=cr0s,wr0s
+2024/07/02 15:04:44 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:04:44 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:04:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:05:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:05:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:05:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:05:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 575 ok out
+2024/07/02 15:05:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:05:44 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:05:44 magicsock: 1 active derp conns: derp-8=cr7h42m0s,wr7h33m0s
+2024/07/02 15:05:47 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:05:47 magicsock: 2 active derp conns: derp-8=cr7h42m0s,wr7h33m0s derp-19=cr0s,wr0s
+2024/07/02 15:05:47 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:05:47 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:05:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:06:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:06:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:06:24 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 756 ok out
+2024/07/02 15:06:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:06:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:06:47 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:06:47 magicsock: 1 active derp conns: derp-8=cr7h43m0s,wr7h34m0s
+2024/07/02 15:06:50 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:06:50 magicsock: 2 active derp conns: derp-8=cr7h43m0s,wr7h34m0s derp-19=cr0s,wr0s
+2024/07/02 15:06:50 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:06:50 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:06:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:07:04 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:16516} 603 ok out
+2024/07/02 15:07:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:07:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:07:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:07:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:07:50 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:07:50 magicsock: 1 active derp conns: derp-8=cr7h44m0s,wr7h35m0s
+2024/07/02 15:07:53 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:07:53 magicsock: 2 active derp conns: derp-8=cr7h44m0s,wr7h35m0s derp-19=cr0s,wr0s
+2024/07/02 15:07:53 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:07:53 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:07:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 637 ok out
+2024/07/02 15:08:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:53 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:08:53 magicsock: 1 active derp conns: derp-8=cr7h45m0s,wr7h36m0s
+2024/07/02 15:08:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:08:56 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:08:56 magicsock: 2 active derp conns: derp-8=cr7h45m0s,wr7h36m0s derp-19=cr0s,wr0s
+2024/07/02 15:08:56 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:08:56 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:09:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:09:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 511 ok out
+2024/07/02 15:09:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:09:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:09:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 413 ok out
+2024/07/02 15:09:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:09:56 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:09:56 magicsock: 1 active derp conns: derp-8=cr7h46m0s,wr7h37m0s
+2024/07/02 15:10:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:10:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 393 ok out
+2024/07/02 15:10:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:10:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:10:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:10:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:11:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:11:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:11:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:11:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:11:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:11:54 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 561 ok out
+2024/07/02 15:12:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:12:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 306 ok out
+2024/07/02 15:12:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:12:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:12:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:12:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:13:04 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 369 ok out
+2024/07/02 15:13:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:13:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:13:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:13:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:13:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:14:04 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 870 ok out
+2024/07/02 15:14:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:14:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:14:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:14:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:14:54 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:15:04 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:15:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 218 ok out
+2024/07/02 15:15:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:15:34 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:15:44 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 15:15:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:16:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:16:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:16:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:16:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 236 ok out
+2024/07/02 15:16:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 228 ok out
+2024/07/02 15:16:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:17:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:17:14 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:17:24 Accept: TCP{100.103.173.16:16516 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:17:34 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:16516} 40 ok out
+2024/07/02 15:17:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:17:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:18:00 magicsock: adding connection to derp-19 for [ay1OS]
+2024/07/02 15:18:00 magicsock: 2 active derp conns: derp-8=cr7h54m0s,wr7h45m0s derp-19=cr0s,wr0s
+2024/07/02 15:18:00 derphttp.Client.Send: connecting to derp-19 (mad)
+2024/07/02 15:18:00 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:18:04 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:18:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 520 ok out
+2024/07/02 15:18:24 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 589 ok out
+2024/07/02 15:18:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:18:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:18:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:18:59 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/02 15:18:59 magicsock: 3 active derp conns: derp-8=cr7h55m0s,wr7h46m0s derp-18=cr0s,wr0s derp-19=cr59s,wr59s
+2024/07/02 15:18:59 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/02 15:18:59 magicsock: derp-18 connected; connGen=1
+2024/07/02 15:19:00 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/02 15:19:00 magicsock: 2 active derp conns: derp-8=cr7h55m0s,wr7h46m0s derp-18=cr1s,wr1s
+2024/07/02 15:19:03 magicsock: adding connection to derp-19 for [ay1OS]
+2024/07/02 15:19:03 magicsock: 3 active derp conns: derp-8=cr7h55m0s,wr7h46m0s derp-18=cr4s,wr4s derp-19=cr0s,wr0s
+2024/07/02 15:19:03 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:19:03 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:19:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:19:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:19:24 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:19:34 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:19:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:19:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:20:00 magicsock: closing connection to derp-18 (idle), age 1m1s
+2024/07/02 15:20:00 magicsock: 2 active derp conns: derp-8=cr7h56m0s,wr7h47m0s derp-19=cr57s,wr57s
+2024/07/02 15:20:02 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/02 15:20:02 magicsock: 3 active derp conns: derp-8=cr7h56m0s,wr7h47m0s derp-18=cr0s,wr0s derp-19=cr59s,wr59s
+2024/07/02 15:20:02 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/02 15:20:02 magicsock: derp-18 connected; connGen=1
+2024/07/02 15:20:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:20:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 419 ok out
+2024/07/02 15:20:15 magicsock: closing connection to derp-19 (idle), age 1m12s
+2024/07/02 15:20:15 magicsock: 2 active derp conns: derp-8=cr7h56m0s,wr7h47m0s derp-18=cr13s,wr13s
+2024/07/02 15:20:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:20:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:20:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:20:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:21:04 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 15:21:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:21:24 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:21:34 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:21:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:21:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:22:04 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:22:14 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:22:24 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:22:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:22:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:22:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:23:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:23:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:23:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:23:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:23:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:23:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:24:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:24:14 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:24:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:24:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:24:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:24:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:25:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:25:14 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:25:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:25:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:25:44 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 48 tcp non-syn
+2024/07/02 15:25:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:26:04 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:26:14 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 321 ok out
+2024/07/02 15:26:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:26:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:26:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:26:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:27:02 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:27:02 magicsock: 3 active derp conns: derp-8=cr8h3m0s,wr7h54m0s derp-18=cr7m0s,wr1m0s derp-19=cr0s,wr0s
+2024/07/02 15:27:02 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:27:02 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:27:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:27:14 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:27:15 magicsock: closing connection to derp-18 (idle), age 7m13s
+2024/07/02 15:27:15 magicsock: 2 active derp conns: derp-8=cr8h3m0s,wr7h54m0s derp-19=cr13s,wr13s
+2024/07/02 15:27:24 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:27:34 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 48 tcp non-syn
+2024/07/02 15:27:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 395 ok out
+2024/07/02 15:27:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:28:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:28:14 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:28:24 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:28:34 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:28:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 45 tcp non-syn
+2024/07/02 15:28:54 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:29:04 Accept: TCP{100.103.173.16:16680 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:29:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:29:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:29:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 47 tcp non-syn
+2024/07/02 15:29:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:29:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:30:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:30:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:30:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:30:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:30:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:30:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:31:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/02 15:31:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:31:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:31:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:31:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:31:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:32:02 magicsock: adding connection to derp-18 for [bFedF]
+2024/07/02 15:32:02 magicsock: 3 active derp conns: derp-8=cr8h8m0s,wr7h59m0s derp-18=cr0s,wr0s derp-19=cr5m0s,wr1m0s
+2024/07/02 15:32:02 derphttp.Client.Recv: connecting to derp-18 (par)
+2024/07/02 15:32:02 magicsock: derp-18 connected; connGen=1
+2024/07/02 15:32:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:32:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:32:15 magicsock: closing connection to derp-19 (idle), age 5m13s
+2024/07/02 15:32:15 magicsock: 2 active derp conns: derp-8=cr8h8m0s,wr7h59m0s derp-18=cr13s,wr13s
+2024/07/02 15:32:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:32:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:32:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:32:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:33:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:34:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:34:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 45 tcp non-syn
+2024/07/02 15:34:24 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 40 ok out
+2024/07/02 15:34:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:34:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:34:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:35:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:35:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:35:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:35:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:35:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:35:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:36:02 magicsock: adding connection to derp-19 for [bFedF]
+2024/07/02 15:36:02 magicsock: 3 active derp conns: derp-8=cr8h12m0s,wr8h3m0s derp-18=cr4m0s,wr1m0s derp-19=cr0s,wr0s
+2024/07/02 15:36:02 derphttp.Client.Recv: connecting to derp-19 (mad)
+2024/07/02 15:36:02 magicsock: derp-19 connected; connGen=1
+2024/07/02 15:36:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:36:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:36:15 magicsock: closing connection to derp-18 (idle), age 4m13s
+2024/07/02 15:36:15 magicsock: 2 active derp conns: derp-8=cr8h12m0s,wr8h3m0s derp-19=cr13s,wr13s
+2024/07/02 15:36:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:36:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:36:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:36:54 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 984 ok out
+2024/07/02 15:37:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:37:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:37:24 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:16815} 40 ok out
+2024/07/02 15:37:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:37:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:37:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:38:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:38:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:38:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:38:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:38:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:38:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:39:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:39:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:39:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:39:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:39:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 40 ok out
+2024/07/02 15:39:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:40:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:40:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 45 tcp non-syn
+2024/07/02 15:40:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:40:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:40:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:40:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:41:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:41:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:41:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:41:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:41:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:41:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:42:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:42:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:42:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:42:34 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:42:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:42:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 48 tcp non-syn
+2024/07/02 15:43:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:43:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:43:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:43:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:43:44 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 604 ok out
+2024/07/02 15:43:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:44:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:44:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:44:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:44:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:44:44 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:44:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:45:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:45:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:45:24 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:45:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:45:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:45:54 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 45 tcp non-syn
+2024/07/02 15:46:04 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:46:14 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:46:24 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 839 ok out
+2024/07/02 15:46:34 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 52 tcp non-syn
+2024/07/02 15:46:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:46:54 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:47:04 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/02 15:47:14 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 68 tcp non-syn
+2024/07/02 15:47:24 Accept: TCP{100.85.195.31:60555 > 100.80.101.71:25565} 76 tcp non-syn
+2024/07/02 15:47:34 Accept: TCP{100.80.101.71:25565 > 100.85.195.31:60555} 1039 ok out
+2024/07/02 15:47:44 Accept: TCP{100.103.173.16:16815 > 100.80.101.71:25565} 52 tcp non-syn

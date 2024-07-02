@@ -232,10 +232,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-07-02 15:26:39 +0000",
       "mutton": "2024-06-30 15:45:30 +0000",
       "apple": "2024-07-01 11:02:17 +0000",
       "chicken": "2024-07-02 11:55:18 +0000",
       "bread": "2024-07-01 13:49:33 +0000",
+      "potato": "2024-07-02 14:40:18 +0000",
       "melon_slice": "2024-07-01 10:08:27 +0000",
       "porkchop": "2024-07-01 10:01:40 +0000",
       "carrot": "2024-07-02 12:08:27 +0000"
@@ -2065,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-07-02 14:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-07-02 14:10:50 +0000"
@@ -2074,6 +2082,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-07-02 14:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-07-02 14:40:10 +0000"
     },
     "done": true
   },
