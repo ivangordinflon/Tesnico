@@ -146,6 +146,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2024-06-30 15:36:32 +0000",
+      "apple": "2024-07-02 12:50:08 +0000",
       "chicken": "2024-06-30 15:36:51 +0000",
       "bread": "2024-07-01 11:14:03 +0000",
       "porkchop": "2024-06-30 15:47:21 +0000",
@@ -1569,6 +1570,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-07-02 12:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-07-02 12:50:24 +0000"
     },
     "done": true
   },
