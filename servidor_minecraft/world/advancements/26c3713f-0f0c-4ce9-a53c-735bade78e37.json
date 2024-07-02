@@ -237,7 +237,8 @@
       "chicken": "2024-07-02 11:55:18 +0000",
       "bread": "2024-07-01 13:49:33 +0000",
       "melon_slice": "2024-07-01 10:08:27 +0000",
-      "porkchop": "2024-07-01 10:01:40 +0000"
+      "porkchop": "2024-07-01 10:01:40 +0000",
+      "carrot": "2024-07-02 12:08:27 +0000"
     },
     "done": false
   },
@@ -2046,9 +2047,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-07-02 10:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-07-02 12:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
     },
     "done": true
   },
