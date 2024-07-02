@@ -1218,3 +1218,4 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/02 09:19:09 magicsock: derp-19 connected; connGen=1
 2024/07/02 09:20:09 magicsock: closing connection to derp-19 (idle), age 1m0s
 2024/07/02 09:20:09 magicsock: 1 active derp conns: derp-8=cr1h56m0s,wr1h47m0s
+2024/07/02 09:57:39 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
