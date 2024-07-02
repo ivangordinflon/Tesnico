@@ -249,6 +249,7 @@
     "criteria": {
       "minecraft:pillager": "2024-07-01 11:24:54 +0000",
       "minecraft:skeleton": "2024-07-01 11:35:38 +0000",
+      "minecraft:piglin": "2024-07-02 07:36:33 +0000",
       "minecraft:spider": "2024-06-30 15:46:21 +0000",
       "minecraft:zombie": "2024-07-01 10:25:39 +0000",
       "minecraft:creeper": "2024-07-01 14:36:14 +0000",
@@ -1693,6 +1694,80 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-07-01 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-07-02 07:35:21 +0000",
+      "minecraft:basalt_deltas": "2024-07-02 07:37:35 +0000",
+      "minecraft:warped_forest": "2024-07-02 07:30:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-02 07:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-02 07:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-07-02 07:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-07-02 07:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-07-02 07:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-07-02 07:33:33 +0000"
     },
     "done": true
   },
