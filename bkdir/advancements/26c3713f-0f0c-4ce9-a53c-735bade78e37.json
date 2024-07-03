@@ -2237,5 +2237,17 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-03 09:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-07-03 09:53:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
