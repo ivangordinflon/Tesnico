@@ -442,6 +442,8 @@
       "minecraft:pillager": "2024-07-02 11:13:11 +0000",
       "minecraft:skeleton": "2024-07-01 11:48:17 +0000",
       "minecraft:phantom": "2024-07-02 12:15:34 +0000",
+      "minecraft:zombified_piglin": "2024-07-03 08:40:26 +0000",
+      "minecraft:ravager": "2024-07-02 15:52:02 +0000",
       "minecraft:vindicator": "2024-07-02 12:40:01 +0000",
       "minecraft:enderman": "2024-07-02 15:53:49 +0000",
       "minecraft:magma_cube": "2024-07-02 14:09:43 +0000",
@@ -449,8 +451,7 @@
       "minecraft:zombie": "2024-07-01 11:39:34 +0000",
       "minecraft:creeper": "2024-06-30 15:46:20 +0000",
       "minecraft:drowned": "2024-07-01 11:54:40 +0000",
-      "minecraft:zombie_villager": "2024-07-01 14:34:02 +0000",
-      "minecraft:ravager": "2024-07-02 15:52:02 +0000"
+      "minecraft:zombie_villager": "2024-07-01 14:34:02 +0000"
     },
     "done": false
   },

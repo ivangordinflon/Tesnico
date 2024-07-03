@@ -237,6 +237,7 @@
       "apple": "2024-07-01 11:02:17 +0000",
       "chicken": "2024-07-02 11:55:18 +0000",
       "bread": "2024-07-01 13:49:33 +0000",
+      "cooked_chicken": "2024-07-03 08:35:02 +0000",
       "potato": "2024-07-02 14:40:18 +0000",
       "melon_slice": "2024-07-01 10:08:27 +0000",
       "porkchop": "2024-07-01 10:01:40 +0000",
@@ -2049,6 +2050,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-07-02 10:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-07-02 12:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-07-02 12:28:57 +0000"
@@ -2061,39 +2074,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-07-02 14:10:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-07-02 14:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2024-07-02 14:10:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-07-02 12:28:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_potato": "2024-07-02 14:40:10 +0000"
+      "has_leather": "2024-07-02 12:28:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_potato": "2024-07-02 14:40:10 +0000"
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-07-02 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-07-02 13:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-07-02 13:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-07-02 14:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-07-02 14:10:50 +0000"
     },
     "done": true
   },
@@ -2109,39 +2134,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_leather": "2024-07-02 12:28:57 +0000"
+      "has_obsidian": "2024-07-02 14:24:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_wood_slab": "2024-07-02 10:26:18 +0000"
+      "has_potato": "2024-07-02 14:40:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_water_bucket": "2024-07-02 16:01:19 +0000"
+      "has_potato": "2024-07-02 14:40:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_dandelion": "2024-07-02 12:21:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-07-02 12:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-07-02 15:55:00 +0000"
+      "has_potato": "2024-07-02 14:40:10 +0000"
     },
     "done": true
   },
@@ -2151,33 +2164,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-07-02 13:40:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-07-02 15:47:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_leather": "2024-07-02 12:28:57 +0000"
+      "hero_of_the_village": "2024-07-02 15:55:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_gunpowder": "2024-07-02 13:40:53 +0000"
+      "has_water_bucket": "2024-07-02 16:01:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_obsidian": "2024-07-02 14:24:57 +0000"
+      "has_rail": "2024-07-03 08:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_the_recipe": "2024-07-03 08:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-07-03 08:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-07-03 08:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2024-07-03 08:37:40 +0000"
     },
     "done": true
   },
