@@ -2731,9 +2731,21 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-07-03 16:23:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2024-07-03 16:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-07-03 16:19:15 +0000"
     },
     "done": true
   },
@@ -2764,6 +2776,18 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-07-03 16:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-07-03 16:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-03 16:19:15 +0000"
     },
     "done": true
   },
