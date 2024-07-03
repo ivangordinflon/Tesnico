@@ -2037,6 +2037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-03 10:26:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-07-03 09:51:43 +0000"
@@ -2100,6 +2106,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-07-03 09:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-03 10:20:39 +0000"
     },
     "done": true
   },
@@ -2184,6 +2196,24 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-07-03 09:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-03 10:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-07-03 10:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-03 10:26:29 +0000"
     },
     "done": true
   },
