@@ -1581,3 +1581,5 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/03 12:11:06 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
 2024/07/03 12:11:12 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
 2024/07/03 12:11:18 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/03 12:12:23 magicsock: closing connection to derp-19 (idle), age 2h35m30s
+2024/07/03 12:12:23 magicsock: 1 active derp conns: derp-8=cr4h30m0s,wr1h17m0s
