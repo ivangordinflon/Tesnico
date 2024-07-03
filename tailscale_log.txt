@@ -236,3 +236,6 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/03 21:40:18 Accept: TCP{100.103.173.16:35981 > 100.80.101.71:25565} 44 tcp non-syn
 2024/07/03 21:40:28 Accept: TCP{100.103.173.16:35981 > 100.80.101.71:25565} 44 tcp non-syn
 2024/07/03 21:40:38 Accept: TCP{100.103.173.16:35981 > 100.80.101.71:25565} 44 tcp non-syn
+2024/07/03 21:48:01 Received error: PollNetMap: unexpected EOF
+2024/07/03 21:48:01 control: netmap: got new dial plan from control
+2024/07/03 21:48:01 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
