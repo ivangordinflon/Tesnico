@@ -703,3 +703,10 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/03 16:26:33 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
 2024/07/03 16:27:39 magicsock: closing connection to derp-19 (idle), age 1m30s
 2024/07/03 16:27:39 magicsock: 1 active derp conns: derp-8=cr1h25m0s,wr5m0s
+2024/07/03 16:45:25 control: sleeping for server-requested 5.626844729s ...
+2024/07/03 16:45:30 wgengine: Reconfig: configuring userspace WireGuard config (with 0/2 peers)
+2024/07/03 16:45:50 logtail: upload: log upload of 613 bytes compressed failed 429: rate limited on bytes transferred globally
+2024/07/03 16:46:05 health("overall"): error: not in map poll
+2024/07/03 16:46:31 logtail: upload succeeded after 1 failures and 41s
+2024/07/03 16:47:44 control: map response long-poll timed out!
+2024/07/03 16:47:44 Received error: PollNetMap: Post "https://controlplane.tailscale.com/machine/map": context canceled
