@@ -242,6 +242,7 @@
       "bread": "2024-07-01 13:49:33 +0000",
       "cooked_chicken": "2024-07-03 08:35:02 +0000",
       "potato": "2024-07-02 14:40:18 +0000",
+      "chorus_fruit": "2024-07-04 09:35:33 +0000",
       "beef": "2024-07-03 11:43:33 +0000",
       "melon_slice": "2024-07-01 10:08:27 +0000",
       "porkchop": "2024-07-01 10:01:40 +0000",
@@ -264,6 +265,7 @@
       "minecraft:witch": "2024-07-03 11:45:25 +0000",
       "minecraft:wither_skeleton": "2024-07-03 15:20:12 +0000",
       "minecraft:ravager": "2024-07-03 11:34:47 +0000",
+      "minecraft:shulker": "2024-07-04 09:36:52 +0000",
       "minecraft:piglin": "2024-07-02 07:36:33 +0000",
       "minecraft:enderman": "2024-07-02 08:43:54 +0000",
       "minecraft:silverfish": "2024-07-03 15:54:01 +0000",
@@ -2542,6 +2544,24 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-07-03 16:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-07-04 09:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-07-04 09:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-07-04 09:38:06 +0000"
     },
     "done": true
   },
