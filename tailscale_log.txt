@@ -272,3 +272,19 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/07 20:42:21 magicsock: derp-19 connected; connGen=1
 2024/07/07 20:42:24 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:2839} 427 ok out
 2024/07/07 20:42:34 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:2839} 528 ok out
+2024/07/07 20:42:44 Accept: TCP{100.103.173.16:2839 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/07 20:42:54 Accept: TCP{100.103.173.16:2839 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/07 20:43:04 Accept: TCP{100.103.173.16:2839 > 100.80.101.71:25565} 40 tcp non-syn
+2024/07/07 20:43:14 Accept: TCP{100.80.101.71:25565 > 100.103.173.16:2839} 191 ok out
+2024/07/07 20:43:21 magicsock: closing connection to derp-19 (idle), age 1m0s
+2024/07/07 20:43:21 magicsock: 1 active derp conns: derp-8=cr33m0s,wr2m0s
+2024/07/07 20:43:21 magicsock: adding connection to derp-19 for [ay1OS]
+2024/07/07 20:43:21 magicsock: 2 active derp conns: derp-8=cr33m0s,wr2m0s derp-19=cr0s,wr0s
+2024/07/07 20:43:21 derphttp.Client.Send: connecting to derp-19 (mad)
+2024/07/07 20:43:21 magicsock: derp-19 connected; connGen=1
+2024/07/07 20:43:45 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/07 20:43:51 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/07 20:43:57 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/07 20:44:03 [unexpected] magicsock: derp-19 does not know about peer [ay1OS], removing route
+2024/07/07 20:45:06 magicsock: closing connection to derp-19 (idle), age 1m45s
+2024/07/07 20:45:06 magicsock: 1 active derp conns: derp-8=cr34m0s,wr4m0s
