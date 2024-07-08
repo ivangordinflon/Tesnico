@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-07-08 14:09:41 +0000",
+      "minecraft:forest": "2024-07-08 14:32:47 +0000",
       "minecraft:river": "2024-07-08 14:15:07 +0000",
       "minecraft:savanna": "2024-07-08 14:10:32 +0000"
     },
@@ -205,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-07-08 14:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-07-08 14:22:17 +0000"
@@ -316,6 +323,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-07-08 14:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-07-08 14:31:34 +0000"
     },
     "done": true
   },
