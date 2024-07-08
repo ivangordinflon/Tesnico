@@ -22,6 +22,7 @@
       "minecraft:meadow": "2024-07-01 11:09:30 +0000",
       "minecraft:birch_forest": "2024-06-30 15:43:00 +0000",
       "minecraft:savanna": "2024-07-01 11:11:22 +0000",
+      "minecraft:bamboo_jungle": "2024-07-08 15:06:32 +0000",
       "minecraft:plains": "2024-07-01 11:10:50 +0000"
     },
     "done": false
@@ -3128,6 +3129,24 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-07-08 14:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-08 15:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-08 15:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-08 15:06:36 +0000"
     },
     "done": true
   },
