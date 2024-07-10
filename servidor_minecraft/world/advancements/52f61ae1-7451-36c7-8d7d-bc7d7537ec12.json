@@ -12,8 +12,11 @@
       "minecraft:forest": "2024-07-10 18:01:04 +0000",
       "minecraft:sparse_jungle": "2024-07-10 17:58:49 +0000",
       "minecraft:jungle": "2024-07-10 18:31:39 +0000",
+      "minecraft:sunflower_plains": "2024-07-10 19:07:24 +0000",
       "minecraft:river": "2024-07-10 18:00:16 +0000",
+      "minecraft:lukewarm_ocean": "2024-07-10 18:51:29 +0000",
       "minecraft:birch_forest": "2024-07-10 18:00:19 +0000",
+      "minecraft:lush_caves": "2024-07-10 18:51:41 +0000",
       "minecraft:savanna": "2024-07-10 18:36:23 +0000",
       "minecraft:plains": "2024-07-10 18:30:23 +0000"
     },
@@ -943,6 +946,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-07-10 18:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-07-10 18:51:24 +0000"
     },
     "done": true
   },
