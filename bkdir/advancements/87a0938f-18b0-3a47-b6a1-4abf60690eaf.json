@@ -12,8 +12,10 @@
       "minecraft:forest": "2024-07-11 09:59:37 +0000",
       "minecraft:sparse_jungle": "2024-07-10 15:05:14 +0000",
       "minecraft:jungle": "2024-07-10 15:26:02 +0000",
+      "minecraft:sunflower_plains": "2024-07-11 17:57:50 +0000",
       "minecraft:river": "2024-07-10 15:06:51 +0000",
       "minecraft:lukewarm_ocean": "2024-07-10 15:33:41 +0000",
+      "minecraft:swamp": "2024-07-11 17:57:55 +0000",
       "minecraft:birch_forest": "2024-07-10 15:06:52 +0000",
       "minecraft:lush_caves": "2024-07-11 09:45:47 +0000",
       "minecraft:savanna": "2024-07-10 15:26:06 +0000"
@@ -616,6 +618,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-07-11 18:00:52 +0000",
       "beef": "2024-07-10 15:30:43 +0000"
     },
     "done": false
@@ -863,6 +866,30 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-07-11 10:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-07-11 17:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-07-11 18:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-07-11 18:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-11 18:00:15 +0000"
     },
     "done": true
   },
