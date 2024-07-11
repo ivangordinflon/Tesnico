@@ -1033,15 +1033,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_nether_bricks": "2024-07-11 10:06:21 +0000"
+      "fortress": "2024-07-11 10:04:14 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
-      "wither_skull": "2024-07-11 10:12:37 +0000"
+      "has_nether_bricks": "2024-07-11 10:06:21 +0000"
     },
     "done": true
   },
@@ -1087,21 +1087,21 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
-      "fortress": "2024-07-11 10:04:14 +0000"
+      "has_nether_bricks": "2024-07-11 10:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-11 10:12:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-07-11 10:12:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2024-07-11 10:06:21 +0000"
     },
     "done": true
   },
