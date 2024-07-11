@@ -959,33 +959,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_egg": "2024-07-10 18:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-07-10 18:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-07-10 18:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:warped_forest": "2024-07-10 18:48:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-07-10 18:48:19 +0000"
+      "slept_in_bed": "2024-07-10 18:36:28 +0000"
     },
     "done": true
   },
@@ -995,9 +971,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "entered_nether": "2024-07-10 18:48:19 +0000"
+      "has_logs": "2024-07-10 18:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-10 18:37:55 +0000"
     },
     "done": true
   },
@@ -1013,21 +995,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "slept_in_bed": "2024-07-10 18:36:28 +0000"
+      "has_log": "2024-07-10 18:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_logs": "2024-07-10 18:37:55 +0000"
+      "has_logs": "2024-07-10 18:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_log": "2024-07-10 18:37:55 +0000"
+      "has_egg": "2024-07-10 18:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-07-10 18:48:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-10 18:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-10 18:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-11 10:04:14 +0000"
     },
     "done": true
   },
