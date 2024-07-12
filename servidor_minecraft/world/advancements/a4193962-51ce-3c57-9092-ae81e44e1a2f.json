@@ -817,7 +817,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-07-10 15:51:01 +0000",
       "minecraft:spider": "2024-07-11 18:15:39 +0000",
-      "minecraft:zombie": "2024-07-10 18:52:19 +0000"
+      "minecraft:zombie": "2024-07-10 18:52:19 +0000",
+      "minecraft:drowned": "2024-07-11 18:35:50 +0000"
     },
     "done": false
   },
